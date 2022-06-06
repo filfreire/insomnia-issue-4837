@@ -1,0 +1,21 @@
+_id: req_a6212a1b17e148049f53799ff01a5a49
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522281391
+created: 1654522189100
+url: mockbin.org/request/anything/put
+name: Put example
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522145388.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

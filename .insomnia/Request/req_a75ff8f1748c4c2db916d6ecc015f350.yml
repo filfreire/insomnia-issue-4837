@@ -1,0 +1,21 @@
+_id: req_a75ff8f1748c4c2db916d6ecc015f350
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522272664
+created: 1654522186243
+url: mockbin.org/request/anything/post
+name: Post example
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522147411.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

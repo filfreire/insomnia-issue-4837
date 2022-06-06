@@ -1,0 +1,21 @@
+_id: req_9f6be294d01748b68f04da6f36d42bcb
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522252952
+created: 1654522243904
+url: mockbin.org/request/anything/head
+name: New Request
+description: ""
+method: HEAD
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522243904
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

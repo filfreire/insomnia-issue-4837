@@ -1,0 +1,21 @@
+_id: req_b26d385169f84393a83fa4bb27292434
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522285353
+created: 1654522196862
+url: mockbin.org/request/anything/delete
+name: Delete example
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522144377.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

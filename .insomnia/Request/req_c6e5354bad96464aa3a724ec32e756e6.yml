@@ -1,0 +1,21 @@
+_id: req_c6e5354bad96464aa3a724ec32e756e6
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522277230
+created: 1654522209349
+url: mockbin.org/request/anything/patch
+name: Patch example
+description: ""
+method: PATCH
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522146400.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

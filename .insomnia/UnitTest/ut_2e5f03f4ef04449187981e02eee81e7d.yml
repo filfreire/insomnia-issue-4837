@@ -1,0 +1,10 @@
+_id: ut_2e5f03f4ef04449187981e02eee81e7d
+type: UnitTest
+parentId: uts_c97dbb1f0d6e49b9bf3283c68a05c0f6
+modified: 1654522307217
+created: 1654522305466
+requestId: req_c62f696983984f999fe693190a203d6b
+name: Returns 200
+code: |-
+  const response1 = await insomnia.send();
+  expect(response1.status).to.equal(200);

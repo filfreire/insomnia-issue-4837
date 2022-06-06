@@ -1,0 +1,21 @@
+_id: req_4736f6bcc36946fcadefb36803651ce2
+type: Request
+parentId: fld_4769ed5b44e44c30a80fd8b73fcf4b87
+modified: 1654522265197
+created: 1654522219814
+url: mockbin.org/request/anything/options
+name: Options example
+description: ""
+method: OPTIONS
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1654522149434.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
